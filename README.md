@@ -16,6 +16,8 @@ Google Drive上で動く、集計フォーム・お問い合わせフォーム�
 ---
 今回は試しに作った
 [澤さん目安箱 https://docs.google.com/forms/d/e/1FAIpQLSe1tjYjyz7RB3FCJkIZnS-RrV0HSw9fn7v4qo1BEZpu0TI9iA/viewform](https://docs.google.com/forms/d/e/1FAIpQLSe1tjYjyz7RB3FCJkIZnS-RrV0HSw9fn7v4qo1BEZpu0TI9iA/viewform)
+
+
 [編集ページ https://docs.google.com/forms/d/1zMCUJmnTGIYg7kPaVkzYBEpC5KoHgcMg8nzFrX4ZsEU/edit?usp=sharing](https://docs.google.com/forms/d/1zMCUJmnTGIYg7kPaVkzYBEpC5KoHgcMg8nzFrX4ZsEU/edit?usp=sharing)
 を例にとって解説していく。
 
